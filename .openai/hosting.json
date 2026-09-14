@@ -1,1 +1,8 @@
-{"version":1,"type":"static","outputDir":"dist","buildCommand":"pnpm run build"}
+{
+  "version": 1,
+  "type": "static",
+  "outputDir": "dist",
+  "buildCommand": "pnpm run build",
+  "d1": "DB",
+  "r2": null
+}
